@@ -68,6 +68,8 @@ Dataset Source: Provided within the notebook (`DailyDelhiClimateTrain.csv`).
 
 - The LSTM model was able to learn patterns in temperature change over time.
 - Visual plots compare true vs. predicted temperature values.
+![image](https://github.com/user-attachments/assets/96bf4696-837f-402c-8d1f-77bcc94b3061)
+
 
 ---
 
